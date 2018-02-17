@@ -1,0 +1,17 @@
+{
+    "name": "coretex/php-timeular",
+    "description": "PHP wrapper for Timeular API",
+    "type": "library",
+    "require": {
+        "nategood/httpful": "^0.2.20",
+        "php": ">=7.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Eric Dorr",
+            "email": "me@mail.ericdorr.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
